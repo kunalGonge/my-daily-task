@@ -8,6 +8,8 @@
 -practised commmits
 -pracrised branches
 -practised merge
+today i learned how branches allow devlopers to work on changes independently
+
 
 ## DSA
 -two sum
